@@ -1,0 +1,11 @@
+                                          GIT HUB COMMANDS AND THEIR FUNCTIONS
+      
+    COMMAND                                                                         FUNCTION
+1.  git status                                                             Shows modified files in working directory.
+2.  git clone                                                               It clones a repository into a newly created directory in the local database.                                                  
+2.  git add -A                                                             Adds file contents to the repository
+3.  git command -m "<message>"                            This command is used to commit the changes made in the file that is to be added to the repository.
+4.  git push -u origin master                                     This command is used to update the repository file that is to be added.
+5.  git config --global user.name <"username">       This command tells the GIT about the user who is using GIT and to whom this repository belongs to.
+6.  git config --global user.email<"email_id">          This command tells the GIT about the user who is using GIT and to whom this repository belongs to.
+ 
